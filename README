@@ -1,1 +1,13 @@
 Author: Matt Frisbie
+
+The lab6_linux directory is a basic implementation of the lab 6 functionality
+in which users can test their algoritms using input from a .txt file rather than
+having to physically be in the ECE470 lab with the webcam.  This compiles with g++
+and should function on all linux EWS machines.  This program is intended for students
+to repurpose for their solutions in order to be able to work outside the lab.  The
+algorithms contained in it are partially contained in our final solution.  
+
+The lab6_submission directory is the submitted solution for labs 5+6.  
+
+Please read the licensing and disclaimer information for both before viewing.  
+
